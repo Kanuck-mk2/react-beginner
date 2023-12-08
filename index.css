@@ -1,5 +1,39 @@
-*{
-    margin: auto;
-    padding: ;
+
+body{
+    border: 3px solid plum;
+    margin: 0px;
+    background-color: rgb(250, 194, 238);
+    text-decoration: black;
     
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nav-logo {
+    width: 40px;
+}
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+.nav-items > li {
+    padding: 10px;
+}
+
+.list-items {
+    display: flex;
+    padding: 40px;
+    align-items: center;
+
+}
+
+.footer-tag {
+    display: flex;
+    padding: 30px;
+    align-items: baseline;
+
 }
