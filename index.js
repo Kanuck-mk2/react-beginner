@@ -12,7 +12,7 @@ function Page() {
             </nav>
             </header>
        
-        <h1>Why  want to learn React</h1>
+        <h1>Why I want to learn React</h1>
         <ol>
             <li>Its a skill</li>
             <li>Further my understanding in programming</li>
