@@ -4,7 +4,7 @@ import Header from "./Header.js";
 import Footer from "./Footer.js";
 import MainContent from "./MainContent.js";
 
-function Page() {
+function App() {
   return (
     <>
       <Header />
@@ -14,4 +14,4 @@ function Page() {
   );
 }
 
-ReactDOM.render(<Page />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
