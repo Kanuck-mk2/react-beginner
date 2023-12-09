@@ -1,5 +1,6 @@
 body {
   border: 3px solid plum;
+  border-radius: 50px;
   margin: 0px;
   background-color: rgb(250, 194, 238);
   text-decoration: black;
